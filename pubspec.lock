@@ -245,6 +245,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.3"
+  hive_flutter:
+    dependency: "direct main"
+    description:
+      name: hive_flutter
+      sha256: dca1da446b1d808a51689fb5d0c6c9510c0a2ba01e22805d492c73b68e33eecc
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   http:
     dependency: transitive
     description:
@@ -262,7 +270,7 @@ packages:
     source: hosted
     version: "4.1.2"
   intl:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: intl
       sha256: "3df61194eb431efc39c4ceba583b95633a403f46c9fd341e550ce0bfa50e9aa5"
@@ -301,6 +309,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.1.1"
+  logger:
+    dependency: "direct main"
+    description:
+      name: logger
+      sha256: a7967e31b703831a893bbc3c3dd11db08126fe5f369b5c648a36f821979f5be3
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.6.2"
   logging:
     dependency: transitive
     description:
@@ -578,6 +594,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.10.1"
+  toml:
+    dependency: "direct main"
+    description:
+      name: toml
+      sha256: "35cd2a1351c14bd213f130f8efcbd3e0c18181bff0c8ca7a08f6822a2bede786"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.17.0"
   typed_data:
     dependency: transitive
     description:
@@ -586,6 +610,15 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.0"
+  uuid7:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "38fccfa9a3620bc8fb87366a4d5d523f290ff87a"
+      url: "https://github.com/qcrg/dart_uuid7.git"
+    source: git
+    version: "1.0.0"
   vector_math:
     dependency: transitive
     description:

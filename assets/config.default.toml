@@ -1,0 +1,5 @@
+[channels.public]
+  port = 27676
+
+[channels.main]
+  port = 0

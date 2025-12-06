@@ -1,0 +1,10 @@
+{
+  "header": {
+    "user_id": "some_unique_uuid",
+    "timestamp": -1,
+    "type": "text"
+  },
+  "payload": {
+    "content": "My name is jovany jorjy"
+  }
+}
